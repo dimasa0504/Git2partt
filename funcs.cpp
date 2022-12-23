@@ -4,7 +4,7 @@
 using namespace std;
 double MySum(double a, double b)
 {
-    cout<<"This function is not ready yet.";
+        return a+b;
 }
 
 double MySub(double a, double b)
