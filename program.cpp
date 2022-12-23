@@ -22,8 +22,7 @@ int main()
         break;
 
     case '/':
-        cout << 'Функция в разработке';
-        cout << "This function is not ready yet.";
+        cout<<x1<<"/"<<x2<<"="<<MyDiv(x1,x2);
         break;
 
     case '*':
