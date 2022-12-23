@@ -14,7 +14,7 @@ double MySub(double a, double b)
 
 double MyMul(double a, double b)
 {
-    cout<<"This function is not ready yet.";
+    return a*b;
 }
 
 double MyDiv(double a, double b)
