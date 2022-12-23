@@ -17,8 +17,7 @@ int main()
         break;
 
     case '-':
-        cout << 'Функция в разработке';
-        cout << "This function is not ready yet.";
+        cout<<x1<<symbol<<x2<<"="<<MySub(x1,x2);
         break;
 
     case '/':
